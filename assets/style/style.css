@@ -95,4 +95,17 @@ main .content .content-description p {
 
 main .content .content-description button {
   padding: 1rem 2.5rem;
+  border: 3px solid transparent;
+  border-radius: 999px;
+  margin-block-start: 1rem;
+
+  background-color: #3a3f4f;
+  font-family: "Outfit", sans-serif;
+  color: white;
+  font-size: 1rem;
+  font-weight: 500;
+  text-transform: uppercase;
+
+  cursor: pointer;
+  transition: all 0.15s ease-in;
 }
