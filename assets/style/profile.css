@@ -66,4 +66,8 @@ main .profile-card {
   margin: 50px;
   text-align: center;
   padding: 90px;
+  flex: 5;
+  display: flex;
+  flex-flow: column nowrap;
+  gap: 1rem 2rem;
 }
