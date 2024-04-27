@@ -90,3 +90,12 @@ main {
   object-fit: cover;
   object-position: center;
 }
+
+footer {
+  padding: 10px;
+  color: white;
+  background-color: #3a3f4f;
+
+  text-align: center;
+  font-weight: 300;
+}

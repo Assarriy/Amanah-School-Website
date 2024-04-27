@@ -71,3 +71,12 @@ main .profile-card {
   flex-flow: column nowrap;
   gap: 1rem 2rem;
 }
+
+footer {
+  padding: 10px;
+  color: white;
+  background-color: #3a3f4f;
+
+  text-align: center;
+  font-weight: 300;
+}
